@@ -4,3 +4,4 @@
 ### If the user presses the blue button during a given time, the sawtooth period is changed to that time tp. 
 ### If the user presses the button twice, in a “short” period (1 second), the system resets and the period returns to its default value (10 seconds).
 ### Everytime the period is changed, its new value is sent through the serial port.
+![Interactive presentation](20260307_234332.gif)
